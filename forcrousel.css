@@ -1,0 +1,12 @@
+﻿*, *::before, *::after{
+    box-sizing:border-box;
+}
+body {
+    margin:0;
+
+}
+.crousel{
+    width:100vw;
+    height:100vw;
+    position: relative;
+}
